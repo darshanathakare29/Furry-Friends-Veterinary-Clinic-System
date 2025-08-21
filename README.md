@@ -1,4 +1,4 @@
-# Furry-Friends-Veterinary-Clinic-System
+# Furry-Friends-Veterinary-Clinic-System-(Part-1)
 A web-based application built using Java Servlets, JSP, and MySQL that helps veterinary clinics manage appointments, pets, owners, medical records, and billing. The system is designed to simplify daily clinic operations and improve pet healthcare management.
 
 ✨ Features
